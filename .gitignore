@@ -1,0 +1,18 @@
+# Environment / secrets
+.env
+.venv/
+venv/
+
+# PyCharm
+.idea/
+
+# Python
+__pycache__/
+*.py[cod]
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Local / temporary files
+.virtual_documents/
+*.log
