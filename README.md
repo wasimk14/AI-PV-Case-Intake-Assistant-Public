@@ -73,3 +73,9 @@ AI-PV-Case-Intake-Assistant-Public/
 ├── README.md
 ├── requirements.txt
 └── .gitignore
+
+## Scope
+
+This repository contains a simplified implementation of the project for technical interview discussion and demonstration.
+
+The complete application includes additional processing, validation, business rules, and deployment components that are not included in this public version.
